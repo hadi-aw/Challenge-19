@@ -1,7 +1,7 @@
 // U51313007
 // src/components/Gallery.js
 import React, { useState, useEffect } from 'react';
-import `./Gallery.css`;
+import './Gallery.css';
 
 const Gallery = () => {
     const [tours, setTours] = useState([]);
